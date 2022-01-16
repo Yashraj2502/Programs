@@ -1,4 +1,3 @@
-//Name - Yash Alapuria
 //To calculate gross & net salary 
 
 
